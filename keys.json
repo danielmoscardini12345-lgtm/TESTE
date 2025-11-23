@@ -1,20 +1,14 @@
 {
   "keys": {
-    "ABC123-TESTE": {
+    "TESTE123": {
       "status": "active",
-      "duration": "10s"
+      "duration": "10s",
+      "first_use": null
     },
-    "VIP-4444-9999": {
-      "status": "active",
-      "duration": "7d"
-    },
-    "MEGA-ULTRA-2025": {
+    "VIP456": {
       "status": "inactive",
-      "duration": "30d"
-    },
-    "FREE-KEY-TEST": {
-      "status": "active",
-      "duration": "1h"
+      "duration": "7d",
+      "first_use": null
     }
   }
 }
