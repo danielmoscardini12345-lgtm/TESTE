@@ -3,12 +3,10 @@
     "ABC123": {
       "duration": "5s",
       "active": false
-      "notes": "KEY DE TESTES"
     },
     "TESTE1": {
       "duration": "2s",
       "active": true
-      "notes": "NAO FUNCIONA"
     },
     "LONGA2": {
       "duration": "2h",
