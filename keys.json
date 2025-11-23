@@ -8,6 +8,7 @@
     "TESTE1": {
       "duration": "2s",
       "active": true
+      "notes": "NAO FUNCIONA"
     },
     "LONGA2": {
       "duration": "2h",
