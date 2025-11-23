@@ -1,14 +1,28 @@
 {
-  "keys": {
-    "TESTE123": {
-      "status": "active",
-      "duration": "10s",
-      "first_use": null
+  "keys": [
+    {
+      "key": "KEY-TESTE-001",
+      "status": true,
+      "createdAt": null,
+      "duration": "24h"
     },
-    "VIP456": {
-      "status": "inactive",
-      "duration": "7d",
-      "first_use": null
+    {
+      "key": "VIP-USER-999",
+      "status": true,
+      "createdAt": null,
+      "duration": "7d"
+    },
+    {
+      "key": "TEMPO-RAPIDO-2S",
+      "status": true,
+      "createdAt": null,
+      "duration": "2s"
+    },
+    {
+      "key": "DESATIVADA-777",
+      "status": false,
+      "createdAt": null,
+      "duration": "12h"
     }
-  }
+  ]
 }
