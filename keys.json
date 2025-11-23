@@ -5,8 +5,8 @@
       "active": false
     },
     "TESTE1": {
-      "duration": "5m",
-      "active": false
+      "duration": "2s",
+      "active": true
     },
     "LONGA2": {
       "duration": "2h",
