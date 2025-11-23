@@ -2,7 +2,7 @@
   "keys": {
     "ABC123": {
       "duration": "5s",
-      "active": true
+      "active": false
     },
     "TESTE1": {
       "duration": "5m",
