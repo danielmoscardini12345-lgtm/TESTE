@@ -1,15 +1,23 @@
 {
   "keys": {
     "ABC123": {
-      "duration": "2h",
-      "active": true
-    },
-    "XYZ999": {
-      "duration": "7d",
+      "duration": "23s",
       "active": true
     },
     "TESTE1": {
-      "duration": "10s",
+      "duration": "5m",
+      "active": true
+    },
+    "LONGA2": {
+      "duration": "2h",
+      "active": true
+    },
+    "MEUDIA": {
+      "duration": "3d",
+      "active": true
+    },
+    "MESZADA": {
+      "duration": "2mo",
       "active": true
     },
     "PERM001": {
