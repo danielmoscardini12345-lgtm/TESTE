@@ -1,24 +1,28 @@
 {
   "keys": {
-    "TESTE-123": {
-      "validFor": "10s",
-      "active": true,
-      "firstLogin": null
+    "ABC123": {
+      "duration": "23s",
+      "active": true
     },
-    "VIP-999": {
-      "validFor": "3d",
-      "active": true,
-      "firstLogin": null
+    "TESTE1": {
+      "duration": "5m",
+      "active": true
     },
-    "PERMANENTE-001": {
-      "validFor": "perm",
-      "active": true,
-      "firstLogin": null
+    "LONGA2": {
+      "duration": "2h",
+      "active": true
     },
-    "DESATIVADA-01": {
-      "validFor": "5h",
-      "active": false,
-      "firstLogin": null
+    "MEUDIA": {
+      "duration": "3d",
+      "active": true
+    },
+    "MESZADA": {
+      "duration": "2mo",
+      "active": true
+    },
+    "PERM001": {
+      "duration": "perm",
+      "active": true
     }
   }
 }
