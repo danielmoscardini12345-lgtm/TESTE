@@ -1,19 +1,20 @@
 {
   "keys": {
-    "TESTE-123": {
+    "ABC123-TESTE": {
       "status": "active",
-      "duration": "10s",
-      "first_use": null
+      "duration": "10s"
     },
-    "VIP-777": {
+    "VIP-4444-9999": {
       "status": "active",
-      "duration": "5s",
-      "first_use": null
+      "duration": "7d"
     },
-    "BANIDA-000": {
+    "MEGA-ULTRA-2025": {
       "status": "inactive",
-      "duration": "1d",
-      "first_use": null
+      "duration": "30d"
+    },
+    "FREE-KEY-TEST": {
+      "status": "active",
+      "duration": "1h"
     }
   }
 }
