@@ -1,28 +1,20 @@
 {
-  "keys": [
-    {
-      "key": "KEY-TESTE-001",
-      "status": true,
-      "createdAt": null,
-      "duration": "24h"
+  "keys": {
+    "ABC123": {
+      "duration": "2h",
+      "active": true
     },
-    {
-      "key": "VIP-USER-999",
-      "status": true,
-      "createdAt": null,
-      "duration": "7d"
+    "XYZ999": {
+      "duration": "7d",
+      "active": true
     },
-    {
-      "key": "TEMPO-RAPIDO-2S",
-      "status": true,
-      "createdAt": null,
-      "duration": "2s"
+    "TESTE1": {
+      "duration": "10s",
+      "active": true
     },
-    {
-      "key": "DESATIVADA-777",
-      "status": false,
-      "createdAt": null,
-      "duration": "12h"
+    "PERM001": {
+      "duration": "perm",
+      "active": true
     }
-  ]
+  }
 }
