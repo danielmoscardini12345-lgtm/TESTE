@@ -2,11 +2,18 @@
   "keys": {
     "TESTE-123": {
       "status": "active",
-      "validade": "7d"
+      "duration": "10s",
+      "first_use": null
     },
-    "VIP-999": {
+    "VIP-777": {
+      "status": "active",
+      "duration": "7d",
+      "first_use": null
+    },
+    "BANIDA-000": {
       "status": "inactive",
-      "validade": "30d"
+      "duration": "1d",
+      "first_use": null
     }
   }
 }
