@@ -1,29 +1,16 @@
 {
-  "config": {
-    "version": "2.0",
-    "allow_expired_login": false
-  },
-
-  "revoked": [
-    "REVOGADA-1234-0000"
-  ],
-
   "keys": {
-    "PRO-1234-TESTE": {
+    "KEY-TESTE-123": {
       "status": "active",
-      "plan": "pro",
-      "expires_in": "30s",
-      "max_devices": 3,
-      "hwid": [],
-      "notes": "Chave de teste com expiração em segundos"
+      "expires_in": "10s"
     },
-
-    "VIP-9999-DIAS": {
+    "VIP-7-DIAS-001": {
       "status": "active",
-      "plan": "vip",
-      "expires_in": "7d",
-      "max_devices": 1,
-      "hwid": []
+      "expires_in": "7d"
+    },
+    "DESATIVADA-001": {
+      "status": "inactive",
+      "expires_in": "30d"
     }
   }
 }
